@@ -18,7 +18,7 @@ class Kraj:
             time.sleep(1)
             print("Ludność się zbuntowała bo jesteś słabym pszyfudcom i zostałeś ukrzyżowany za swoje grzechy")
             time.sleep(1)
-            print("https://drive.google.com/file/d/10VleoghoIasBFFJCI836n7PloeMiWynK/view?usp=sharing")
+            print("https://drive.google.com/file/d/13c11Xy4Sv8GjKR3pyKSG_V2-EwFBzjHW/view?usp=drivesdkview?usp=sharing")
             time.sleep(1)
             exit()
         if self.wojsko <= 0:
